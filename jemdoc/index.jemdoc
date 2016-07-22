@@ -1,12 +1,12 @@
 # jemdoc: addcss{jemdoc/jemdoc.css}
 # jemdoc: addcss{jemdoc/myExtra.css}
-# jemdoc: title{MrDP: Multiple-Row Detailed Placement}
+# jemdoc: title{MrDP: Multiple-row Detailed Placement}
 
 
 # ==== Title and Authors
 {{
 <p><center><font size="8" face="Times New Roman" color="b54900">
-MrDP: Multiple-Row Detailed Placement
+MrDP: Multiple-row Detailed Placement
 </font></center></p>
 }}
 
@@ -19,12 +19,12 @@ This project focuses on detailed placemenet for designs with multiple-row height
 We present *MrDP*, a detailed placer that can handle multiple-row height cells in designs.
 
 ~~~
-{Multiple-Row Height Cells}{img_left}{jemdoc/img/multi_row_cells.png}{multi_row_cells}{300}{}{}
+{Multiple-row Height Cells}{img_left}{jemdoc/img/multi_row_cells.png}{multi_row_cells}{300}{}{}
 Power line alignement for multiple-row height cells
 ~~~
 
 ~~~
-{Multiple-Row Placement}{img_left}{jemdoc/img/mrplace_eg1.png}{mrplace_eg1}{300}{}{}
+{Multiple-row Placement}{img_left}{jemdoc/img/mrplace_eg1.png}{mrplace_eg1}{300}{}{}
 Multiple-row height cells in layout
 ~~~
 
