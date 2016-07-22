@@ -1,0 +1,93 @@
+# jemdoc: addcss{jemdoc/jemdoc.css}
+# jemdoc: addcss{jemdoc/myExtra.css}
+# jemdoc: title{MrDP: Multiple-Row Detailed Placement}
+
+
+# ==== Title and Authors
+{{
+<p><center><font size="8" face="Times New Roman" color="b54900">
+MrDP: Multiple-Row Detailed Placement
+</font></center></p>
+}}
+
+
+{{<div id="intro">}}
+== Introduction
+
+
+This project focuses on detailed placemenet for designs with multiple-row height standard cells in advanced technology nodes. 
+We present *MrDP*, a detailed placer that can handle multiple-row height cells in designs.
+
+~~~
+{Multiple-Row Height Cells}{img_left}{jemdoc/img/multi_row_cells.png}{multi_row_cells}{300}{}{}
+Power line alignement for multiple-row height cells
+~~~
+
+~~~
+{Multiple-Row Placement}{img_left}{jemdoc/img/mrplace_eg1.png}{mrplace_eg1}{300}{}{}
+Multiple-row height cells in layout
+~~~
+
+MrDP Overview
+
+- A chain move scheme that generalizes the movement of heterogeneous-sized cells to optimize wirelength, cell and pin density by searching for the maximum prefix sum of the improvements. 
+- A nested dynamic programming based technique solving ordered double-row placement for wirelength optimization. 
+- Outperform the most recent detailed placer [TCAD'15 Wu] for multiple-row height cells by 3.0\% in scaled wirelength, 13.3\% in cell density and 13.2\% in pin density. 
+
+
+{{</div>}}
+
+
+
+{{<div id="excu">}}
+== Executables
+
+# - Updated executables: [executables/MrDP_07-08-2016.tar.gz Version 1.1.0]
+- Updated executables: Coming soon
+
+- Evaluation scripts: [executables/evaluate_07-22-2016.tar.gz Version 1.1.0] (modified from [http://cad-contest.cs.nctu.edu.tw/CAD-contest-at-ICCAD2013/problem_b/ ICCAD 2013 evaluation script] to support pin density)
+
+{{</div>}}
+
+
+{{<div id="bench">}}
+== Benchmarks
+
+- Modified ICCAD 2014 Placement Contest Benchmarks:
+[benchmark/iccad2014_mr_07-18-2016.tar.gz ICCAD 2014]
+
+{{</div>}}
+
+
+{{<div id="publication">}}
+== Publications
+
+- Yibo Lin, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
+   "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
+   IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7–10, 2016. 
+
+{{</div>}}
+
+
+{{<div id="contact">}}
+== Contact
+
+[http://www.cerc.utexas.edu/~yibolin Yibo Lin]
+
+[http://www.cse.cuhk.edu.hk/~byu Bei Yu]
+
+[http://users.ece.utexas.edu/~dpan/ Prof. David Z. Pan]
+
+Please [mailto:yibolin@utexas.edu contact us] with any bug reports and comments. 
+
+{{</div>}}
+
+
+{{<div id="link">}}
+== Links
+
+[http://cad_contest.ee.ncu.edu.tw/CAD-contest-at-ICCAD2014/problem_b/default.html ICCAD 2014 placement contest]
+
+{{</div>}}
+
+
