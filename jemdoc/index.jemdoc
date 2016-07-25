@@ -32,7 +32,7 @@ MrDP Overview
 
 - A chain move scheme that generalizes the movement of heterogeneous-sized cells to optimize wirelength, cell and pin density by searching for the maximum prefix sum of the improvements. 
 - A nested dynamic programming based technique solving ordered double-row placement for wirelength optimization. 
-- Outperform the most recent detailed placer [TCAD'15 Wu] for multiple-row height cells by 3.0\% in scaled wirelength, 13.3\% in cell density and 13.2\% in pin density. 
+- Outperform the most recent detailed placer \[[http://dx.doi.org/10.1109/TCAD.2015.2511141 TCAD'16 Wu]\] for multiple-row height cells by 3.0\% in scaled wirelength, 13.3\% in cell density and 13.2\% in pin density. 
 
 
 {{</div>}}
@@ -43,7 +43,7 @@ MrDP Overview
 == Executables
 
 # - Updated executables: [executables/MrDP_07-08-2016.tar.gz Version 1.1.0]
-- Updated executables: Coming soon
+- Updated executables: Coming soon ([mailto:yibolin@utexas.edu contact us] for pretrial)
 
 - Evaluation scripts: [executables/evaluate_07-22-2016.tar.gz Version 1.1.0] (modified from [http://cad-contest.cs.nctu.edu.tw/CAD-contest-at-ICCAD2013/problem_b/ ICCAD 2013 evaluation script] to support pin density)
 
@@ -52,6 +52,9 @@ MrDP Overview
 
 {{<div id="bench">}}
 == Benchmarks
+
+- Benchmarks for \[[http://dx.doi.org/10.1109/TCAD.2015.2511141 TCAD'16 Wu]\]: 
+Please contact [mailto:gangwu@iastate.edu Gang Wu] and Prof. [http://home.engineering.iastate.edu/~cnchu/ Chris Chu] at Iowa State University
 
 - Modified ICCAD 2014 Placement Contest Benchmarks:
 [benchmark/iccad2014_mr_07-18-2016.tar.gz ICCAD 2014]
@@ -88,6 +91,13 @@ Please [mailto:yibolin@utexas.edu contact us] with any bug reports and comments.
 
 [http://cad_contest.ee.ncu.edu.tw/CAD-contest-at-ICCAD2014/problem_b/default.html ICCAD 2014 placement contest]
 
+[http://www.cerc.utexas.edu/utda UTDA]
+
 {{</div>}}
 
+{{<div id="license">}}
+== License
 
+You must agree with the [jemdoc/img/LICENSE license terms] to use the software. 
+
+{{</div>}}
