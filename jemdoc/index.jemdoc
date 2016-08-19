@@ -47,6 +47,8 @@ MrDP Overview
 
 - Evaluation scripts: [executables/evaluate_07-22-2016.tar.gz Version 1.1.0] (modified from [http://cad-contest.cs.nctu.edu.tw/CAD-contest-at-ICCAD2013/problem_b/ ICCAD 2013 evaluation script] to support pin density)
 
+- ICCAD 2016 Solutions: [benchmark/iccad2016sol_7-18-2016.tar.gz Bookshelf]
+
 {{</div>}}
 
 
@@ -56,7 +58,7 @@ MrDP Overview
 - Benchmarks for \[[http://dx.doi.org/10.1109/TCAD.2015.2511141 TCAD'16 Wu]\]: 
 Please contact [mailto:gangwu@iastate.edu Gang Wu] and Prof. [http://home.engineering.iastate.edu/~cnchu/ Chris Chu] at Iowa State University
 
-- [benchmark/iccad2014_mr_07-18-2016.tar.gz Modified ICCAD 2014 placement contest benchmarks with multiple-row cells]
+- [benchmark/iccad2014_mr_bookshelf_07-18-2016.tar.gz Modified ICCAD 2014 placement contest benchmarks with multiple-row cells (including Bookshelf)]
 
 {{</div>}}
 
