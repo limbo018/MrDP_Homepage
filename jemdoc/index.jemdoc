@@ -42,7 +42,7 @@ MrDP Overview
 {{<div id="excu">}}
 == Executables
 
-- Updated executables: [executables/iccad2016release.tar.gz Version 1.1.0]
+- Updated executables: [executables/iccad2016release.tar.gz Version 1.1.0] (binary of \[[https://doi.org/10.1145/2897937.2898038 DAC'16 Chow]\] is not included)
 
 - Evaluation scripts: [executables/evaluate_07-22-2016.tar.gz Version 1.1.0] (modified from [http://cad-contest.cs.nctu.edu.tw/CAD-contest-at-ICCAD2013/problem_b/ ICCAD 2013 evaluation script] to support pin density)
 
