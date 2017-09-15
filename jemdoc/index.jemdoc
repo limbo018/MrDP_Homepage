@@ -42,11 +42,14 @@ MrDP Overview
 {{<div id="excu">}}
 == Executables
 
-- Updated executables: [executables/iccad2016release.tar.gz Version 1.1.0] (binary of \[[https://doi.org/10.1145/2897937.2898038 DAC'16 Chow]\] is not included)
+#- Updated executables: [executables/iccad2016release.tar.gz Version 1.1.0] (binary of \[[https://doi.org/10.1145/2897937.2898038 DAC'16 Chow]\] is not included)
+- Updated executables: [executables/tcad2017release.tar.gz Version 2.0.0] (binary of \[[https://doi.org/10.1145/2897937.2898038 DAC'16 Chow]\] is not included)
 
 - Evaluation scripts: [executables/evaluate_07-22-2016.tar.gz Version 1.1.0] (modified from [http://cad-contest.cs.nctu.edu.tw/CAD-contest-at-ICCAD2013/problem_b/ ICCAD 2013 evaluation script] to support pin density)
 
-- ICCAD 2016 Solutions: [benchmark/iccad2016sol_7-18-2016.tar.gz Bookshelf]
+#- ICCAD 2016 Solutions: [benchmark/iccad2016sol_7-18-2016.tar.gz Bookshelf]
+
+- TCAD 2017 Solutions: [benchmark/tcad2017sol_3-13-2017.tar.gz Bookshelf]
 
 {{</div>}}
 
@@ -69,6 +72,10 @@ Please contact [mailto:gangwu@iastate.edu Dr. Gang Wu] and Prof. [http://home.en
 - Yibo Lin, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J. Alpert and David Z. Pan, 
    "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
    IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Austin, TX, Nov. 7–10, 2016. 
+
+- Yibo Lin, Bei Yu, Xiaoqing Xu, Jhih-Rong Gao, Natarajan Viswanathan, Wen-Hao Liu, Zhuo Li, Charles J Alpert and David Z. Pan, 
+   "MrDP: Multiple-row Detailed Placement of Heterogeneous-sized Cells for Advanced Nodes", 
+  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017. 
 
 {{</div>}}
 
